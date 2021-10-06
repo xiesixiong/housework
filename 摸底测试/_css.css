@@ -1,0 +1,124 @@
+@charset "utf-8";
+
+.background {
+    width: 200px;
+    background-color: rgba(4,4,4,1.00);
+    height: 400px;
+    float: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    color: rgba(171,18,21,1);
+    margin-left: 613px;
+    padding-bottom: 25px;
+    margin-top: 87px;
+}
+#file{ 
+	
+    position:absolute;
+    z-index:100;
+    margin-left: auto
+    font-size:60px;
+    opacity:0;
+    filter:alpha(opacity=0); 
+   
+}
+
+
+
+img {
+    width: 70px;
+    padding-right: 26px;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 26px;
+}
+
+.gray {
+    background-color: rgba(46,46,46,1.00);
+    padding-left: 36px;
+    border-radius: 20px 20px 0px 0px;
+    padding-right: 8px;
+}
+
+.white {
+    background-color: rgba(254,251,251,1.00);
+    width: 200px;
+    height: 224px;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    font-size: 5px;
+    color: rgba(0,0,0,1);
+    margin-top: -6px;
+    text-align: center;
+}
+
+.choice_file {
+    background-color: rgba(81,255,188,1.00);
+    height: 0px;
+    width: 100px;
+    margin-left: 44px;
+    margin-right: 39px;
+    margin-top: 20px;
+    border-radius: 13px;
+    font-size: 16px;
+    line-height: -43.5;
+    text-align: center;
+    padding-left: 7px;
+    padding-top: 11px;
+    padding-right: 4px;
+    padding-bottom: 28px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.choice_file:hover {
+    color: rgba(253,0,0,1.00);
+	cursor:pointer;
+	transform: scale(1.2)
+}
+
+
+
+
+.hand-in_file {
+    background-color: rgba(9,221,248,0.76);
+    height: 44px;
+    padding-left: 6px;
+    padding-top: 3px;
+    margin-left: 43px;
+    margin-top: 13px;
+    margin-right: 39px;
+    border-radius: 11px;
+    font-size: 16px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    text-align: center;
+    line-height: 1;
+    width: 100px;
+    padding-bottom: 0px;
+	
+}
+.hand-in_file:hover {
+    color: rgba(254,0,4,1.00);
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+
+h3 {
+    color: rgba(2,221,248,1.00);
+}
+
+.header {
+    float: right;
+    border-left-color: rgba(252,252,252,1.00);
+    background-color: rgba(255,255,255,1.00);
+}
+
+.icon-tishi {
+	
+}
+
+button {
+	
+}
+
+
